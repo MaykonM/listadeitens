@@ -1,0 +1,1 @@
+Repositório listadeitens - projeto teste para efetuar requisições HTTP com o Axios.
