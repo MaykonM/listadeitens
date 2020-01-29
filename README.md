@@ -1,1 +1,1 @@
-Repositório listadeitens - projeto teste para efetuar requisições HTTP com o Axios.
+Repositório listadeitens - Usando o HTTP Axios para consumir dados de APIs Rest
